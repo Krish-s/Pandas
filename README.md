@@ -9,6 +9,8 @@ Then I have dropped duplicates.Now this dataset is cleaned the process of data c
 
 Now the correlation theory and the hypothis theory can be checked based on the requirements.
 
+Data visualization is studied with plotyly express library as px. The dateset is loaded and it is visualized as bar,area,scatter,line graphs and the data is understood by visualisation using python.
+
 
 Evalution of the train database in pandas.
 
