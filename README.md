@@ -10,6 +10,9 @@ Then I have dropped duplicates.Now this dataset is cleaned the process of data c
 Now the correlation theory and the hypothis theory can be checked based on the requirements.
 
 Data visualization is studied with plotyly express library as px. The dateset is loaded and it is visualized as bar,area,scatter,line graphs and the data is understood by visualisation using python.The values for x axis and y axis are given and the graph is visualized first and then topic for the graph is changed , hover_name given ,then animation_frame is used to animate the datset as per the requirement . 
+Then bar polar graph is plotted by using radius and theta values from the dataset and the bar polar graph is visualized and understood successfully. To expolre 
+the Exploitary Data Analysis installation of dataprep is done and create_report is imported and the dataframe df is passed in the create report . The whole dataframe which is passed in it is analysed completely and a overview or report of the df is given . This reoport show detailed analysis of the missing values,duplicates, Null values ,helps understanding the data easily and other details of the data so that it make it easy for the next process like data cleaning , and Machine Learning .
+
 The distribution techniques like Uniform distribution , Binomial distribution, Normal distribution , Chi2 Contingency , Geometric distribution , Logistic distribution , Poisson Distribution , Exponential distribuion .
 
 #skewness , kurtois
