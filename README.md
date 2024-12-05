@@ -19,6 +19,12 @@ The distribution techniques like Uniform distribution , Binomial distribution, N
 
 skewness and kurtosis are checked for the california housing train data and skewness and kurtosis is found in it . Then it's transformed from high skewed and kurtosis data to either no or moderately skewed an kustosis data .
 
+MACHINE LEARNING:
+                The Linear regression model is given and trained . The best fit line is found  and the wanted value is predicted. Sum of Squares of Total,Sum of Square of Regression , Sum of Squares of Error is Calculated.
+
+
+
+
 
 Evalution of the train database in pandas.
 
